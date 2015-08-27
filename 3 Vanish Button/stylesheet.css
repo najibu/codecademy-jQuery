@@ -1,0 +1,13 @@
+﻿div{
+	height:100px;
+	width:100px;
+	border-radius: 5px;
+	background:#F38630;	
+	display:inline-block;
+	
+	
+}
+
+#blue {
+	background:blue;
+}
